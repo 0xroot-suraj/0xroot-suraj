@@ -91,7 +91,7 @@ graph TD
 <h2>📫 Connect with me</h2>
 
 <p style="font-size: 16px;">
-  <a href="https://www.linkedin.com/in/shakti-suraj-8623a4370" target="_blank"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/shakti-suraj/" target="_blank"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
   <a href="https://x.com/0xroot_suraj" target="_blank"><strong>X (formerly Twitter)</strong></a>
   &nbsp;•&nbsp;
